@@ -1,0 +1,7 @@
+{
+  "darwin-x64-prod": {
+    "update": "https://github.com/affixus/munshi/releases/download/darwin-x64-prod-v0.8.80/release.json",
+    "install": "https://github.com/affixus/munshi/releases/download/darwin-x64-prod-v0.8.80/munshi-0.8.80.dmg",
+    "version": "0.8.80"
+  }
+}
